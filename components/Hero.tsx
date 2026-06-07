@@ -42,6 +42,7 @@ export default function Hero() {
                         <a
                             href="/cv-agus.pdf"
                             target="_blank"
+                            rel="noopener noreferrer"
                             className="px-8 py-4 rounded-xl border border-slate-300 hover:border-blue-700 transition"
                         >
                             Download CV
