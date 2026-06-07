@@ -17,7 +17,7 @@ export default function Projects() {
     return (
         <section
             id="projects"
-            className="py-16 bg-slate-50"
+            className="py-10 bg-slate-50"
         >
             <div className="max-w-6xl mx-auto px-6">
 

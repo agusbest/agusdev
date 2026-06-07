@@ -6,7 +6,7 @@ export default function Hero() {
     return (
         <section className="min-h-screen flex items-center bg-gradient-to-br from-slate-50 via-white to-blue-50">
 
-            <div className="max-w-7xl mx-auto px-6 py-20">
+            <div className="max-w-7xl mx-auto px-6 py-10">
 
                 <motion.div
                     initial={{ opacity: 0, y: 40 }}
